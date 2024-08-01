@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lickente.github.io/sitemap.html.gz
+Sitemap: https://lickente.github.io/app/sitemap.html.gz
+Sitemap: https://lickente.github.io/assets/sitemap.html.gz
+Sitemap: https://lickente.github.io/css/sitemap.html.gz
+Sitemap: https://lickente.github.io/includes/sitemap.html.gz
+Sitemap: https://lickente.github.io/item/sitemap.html.gz
+Sitemap: https://lickente.github.io/src/sitemap.html.gz
